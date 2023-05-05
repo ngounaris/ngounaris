@@ -4,7 +4,7 @@ I am a professor of law and practicing attorney with over 20 years’ experience
 
 # Financing Open Source Projects
 
-For the past 18 months we have been developing [OS.Cash](https://www.os.cash), a new way to license successful open-source projects so the software remains free for all (except Billion Dollar Businesses, who purchase a license for use).
+For the past 18 months we have been developing [OS.Cash](https://www.os.cash/mission), a new way to license successful open-source projects so the software remains free for all (except Billion Dollar Businesses, who purchase a license for use).
 
 # Corporate and Commercial Track Record
 
