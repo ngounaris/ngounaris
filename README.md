@@ -2,9 +2,9 @@
 
 I am a professor of law and practicing attorney with over 20 years’ experience in Asia with extensive experience handling complex matters across Asia Pacific for top-tier global law firms, ongoing business concerns and enterprises, and successful start-ups, as well as a NYSE-listed $2B multinational.
 
-# Financing Open Source Projects
+# Financing Permissively-licensed Free-Software
 
-For the past 18 months we have been developing [OS.Cash](https://www.os.cash/mission), a new way to license successful open-source projects so the software remains free for all (except Billion Dollar Businesses, who purchase a license for use).
+For the past 18 months we have been developing OS.Cash, a new way to license successful permissively-licensed free-software projects so the software remains free for all (except Billion Dollar Businesses, who purchase a license for use).
 
 # Corporate and Commercial Track Record
 
